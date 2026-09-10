@@ -41,7 +41,7 @@ export const HABIB_SEED_PROFILE = Object.freeze({
   gender: 'Male',
   nationality: 'Bangladeshi',
   religion: 'Islam',
-  maritalStatus: 'Unmarried',
+  maritalStatus: 'Single',
   spouseName: '',
   bloodGroup: 'B+',
   nidType: 'NID',
